@@ -1,0 +1,99 @@
+/**********************************************************
+* Author: Thomas Canham
+* Assignment: WE4.0 PHP Web App Assignment, Digital Skills Academy
+* Student ID: D15126979
+* Date : 2016/02/08
+* Ref: n/a
+***********************************************************/
+
+body{
+    background: blue;
+}
+
+header{
+    margin: auto;
+    width: 90%;
+    border: 1px solid black;
+    padding:.5em;
+    
+}
+
+header a{
+    float: right;
+    background:#101010;
+    color:#fff;
+    text-decoration: none;
+    border: 1px solid black;
+    padding:.5em;
+}
+
+#member_list{
+    float: right;
+    margin-top: 20px;
+    margin-right: 10%;
+    color:#fff;
+    border: 1px solid black;
+    padding:.5em;
+}
+ul {
+    list-style:none;
+}
+
+#search{
+    width:50%;
+    margin-top: 20px;
+    margin-left: 10%;
+    color:#fff;
+    border: 1px solid black;
+    padding:.5em; 
+}
+
+#profile{
+    width:50%;
+    min-height:130px;
+    margin-top: 20px;
+    margin-left: 10%;
+    color:#fff;
+    border: 1px solid black;
+    padding:.5em;
+}
+
+#profile th{
+    background:#101010;
+    color:#fff;
+    padding:.2em;
+    text-align:center;
+}
+
+#profile td{
+  border: 1px solid black; 
+     padding:.2em;
+    text-align:center;
+}
+
+footer{
+    margin-top: 20px;
+    border-top: 1px solid black;
+    text-align:center;
+}
+
+/* login styles */
+
+#login{
+    width:30%;
+    margin:auto;
+    margin-top: 50px;
+    color:#fff;
+    border: 1px solid black;
+    padding:.5em;
+    text-align:center;
+}
+
+#loginForm{
+     text-align:center;
+}
+
+.error{
+    color:red;
+    background: #fff;
+}

@@ -1,0 +1,10 @@
+----------------------------------------------------------
+Log in Defaults
+
+Default username: admin
+Default password: admin
+-----------------------------------------------------------
+
+There are two tables in the login database, there is no relationship between the two tables.
+The users table holds userdata relating to site admin users.
+The members table holds the profiles of current club members.
